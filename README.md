@@ -153,7 +153,7 @@ Screenshots:
 * [HR linked GPOs](screenshots/04-group-policy/20_GPMC_HR_Linked_GPOs.png)
 * [Control Panel restriction setting](screenshots/04-group-policy/25_GPO_ControlPanel_Setting.png)
 * [USB storage restriction setting](screenshots/04-group-policy/26_GPO_Disable_USB_Setting.png)
-* [Mapped drives setting](screenshots/04-group-policy/27_GPO_Mapped_Drives_Setting.png)
+* [Mapped drives setting](screenshots/04-group-policy/27_GPO_Mapped_Drives_Setting..png)
 * [Contractors OU linked GPOs](screenshots/04-group-policy/61_GPMC_Contractors_OU_Linked_GPOs.png)
 * [Workstation local admin GPO](screenshots/04-group-policy/91_GPO_Workstation_Local_Admins_IT_Admins.png)
 
