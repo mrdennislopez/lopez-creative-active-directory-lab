@@ -249,7 +249,7 @@ Screenshots:
 * [Casey Morgan group membership](screenshots/07-contractor-access/59_Casey_Morgan_SG_Contractors_Membership.png)
 * [Casey Morgan in Contractors OU](screenshots/07-contractor-access/60_ADUC_Casey_Morgan_Contractors_OU.png)
 * [Contractors OU linked GPOs](screenshots/07-contractor-access/61_GPMC_Contractors_OU_Linked_GPOs.png)
-* [Casey Morgan gpresult](screenshots/07-contractor-access/62_Client_gpresult_Casey_Morgan_Contractor.png)
+* [Casey Morgan gpresult](screenshots/07-contractor-access/62_Client_gpresult_Casey_Morgan_Contractor.png.png)
 * [Casey Morgan Control Panel blocked](screenshots/07-contractor-access/63_Client_Casey_ControlPanel_Blocked.png)
 * [Casey Morgan denied HR folder](screenshots/07-contractor-access/65_Client_Casey_Denied_HR_Folder.png)
 * [Casey Morgan allowed Public folder](screenshots/07-contractor-access/66_Client_Casey_Public_Folder_Access.png)
